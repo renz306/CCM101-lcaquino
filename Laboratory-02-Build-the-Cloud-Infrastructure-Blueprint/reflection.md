@@ -1,4 +1,4 @@
-# Checkpoint 7 – Mission Reflection
+
 
 ## Mission Reflection
 
