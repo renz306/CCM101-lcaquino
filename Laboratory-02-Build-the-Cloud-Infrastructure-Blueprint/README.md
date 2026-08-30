@@ -26,26 +26,3 @@ The following are the main components used in the simple cloud infrastructure:
 | **User** | The person who accesses the cloud application or services through a web browser or mobile application. |
 | **Internet Connection** | Provides connectivity between the user and the cloud infrastructure through the internet. |
 
-### Simple Cloud Architecture
-
-```text
-                  +----------------------+
-                  |   Compute Resource   |
-                  |   Virtual Machine    |
-                  +----------+-----------+
-                             |
-                             |
-+-------------+        +-----v-----+        +----------------------+
-|    User     | <----> | Internet  | <----> | Storage Resource     |
-| Web/Mobile  |        |           |        | Object Storage       |
-+-------------+        +-----+-----+        +----------------------+
-                             |
-                       +-----v-----+
-                       |  Network  |
-                       |    VPC    |
-                       +-----------+
-                             |
-                       +-----v-----+
-                       | Internet  |
-                       | Connection|
-                       +-----------+
