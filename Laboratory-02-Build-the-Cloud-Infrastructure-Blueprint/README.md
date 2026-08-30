@@ -1,4 +1,4 @@
-# Checkpoint 6 – Technical Documentation
+Technical Documentation
 
 ## Mission Overview
 
