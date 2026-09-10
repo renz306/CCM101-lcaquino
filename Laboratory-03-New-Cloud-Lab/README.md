@@ -1,63 +1,61 @@
-# Laboratory 03 - Multi-Cloud Explorer
+# Laboratory 03 – Multi-Cloud Explorer
 
-## Overview
+## Activity Overview
 
-This laboratory activity focuses on exploring and comparing three major cloud computing platforms: **Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP)**.
+This laboratory activity focuses on learning about major cloud computing platforms and understanding how their services can be used in different situations. The activity covers **Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP)** and includes research, service comparison, client recommendations, and technical documentation.
 
-The activity helped me understand the basic services, infrastructure, advantages, and possible uses of each cloud platform. It also involved analyzing different client situations and recommending a suitable cloud provider based on their requirements.
+## Learning Objectives
 
-## Cloud Platforms
+By completing this laboratory activity, I was able to:
 
-### Amazon Web Services (AWS)
+* Learn the basic concepts of AWS, Azure, and Google Cloud.
+* Identify important services provided by each cloud platform.
+* Compare similar cloud services from different providers.
+* Determine suitable cloud platforms for different types of clients.
+* Practice creating technical documents using Markdown.
+* Organize cloud computing activities and outputs in GitHub.
 
-AWS is a cloud platform that provides services for computing, storage, networking, databases, security, and other IT needs.
+## Resources Used
 
-### Microsoft Azure
+* KillerCoda Playground
+* GitHub Repository
+* Web Browser
+* Internet Connection
+* Official Cloud Documentation
 
-Microsoft Azure is a cloud computing platform that provides services for application hosting, storage, networking, databases, security, and enterprise solutions.
+## Cloud Platform Research
 
-### Google Cloud Platform (GCP)
+The three cloud providers were researched to understand their infrastructure, management tools, core services, advantages, and common business applications.
 
-Google Cloud Platform provides cloud services for computing, storage, networking, data analytics, artificial intelligence, and machine learning.
+| Cloud Provider  | Example Computing Service | Example Storage Service |
+| --------------- | ------------------------- | ----------------------- |
+| AWS             | Amazon EC2                | Amazon S3               |
+| Microsoft Azure | Azure Virtual Machines    | Azure Blob Storage      |
+| Google Cloud    | Compute Engine            | Cloud Storage           |
 
-## Research Files
+## Checkpoint 7 – Cloud Infrastructure Investigation
 
-The following files contain the research completed during the activity:
+During the Linux investigation in KillerCoda, I examined a Linux-based environment and considered how the same type of workload could be deployed using virtual machine services from different cloud providers.
+
+| Cloud Provider  | Virtual Machine Service |
+| --------------- | ----------------------- |
+| AWS             | Amazon EC2              |
+| Microsoft Azure | Azure Virtual Machines  |
+| Google Cloud    | Compute Engine          |
+
+These services allow users to create virtual machines that can run Linux operating systems and applications. They provide an alternative to maintaining physical servers and can be scaled depending on the requirements of the workload.
+
+## Documentation Files
+
+The following files contain the outputs and research completed during the laboratory activity:
 
 * [AWS Research](aws-research.md)
 * [Azure Research](azure-research.md)
 * [GCP Research](gcp-research.md)
-
-## Cloud Platform Comparison
-
-The platforms were compared based on their computing, storage, networking, identity management, and other cloud services.
-
 * [Cloud Platform Comparison](cloud-platform-comparison.md)
-
-## Client Recommendations
-
-Different client scenarios were analyzed to determine which cloud platform would best fit their needs.
-
 * [Client Recommendations](client-recommendations.md)
+* [Reflection](reflection.md)
 
-## Reflection
+## Expected Outcome
 
-The activity provided an opportunity to understand how cloud platforms are selected based on business requirements, technical needs, scalability, security, and available services.
-
-* [Mission Reflection](reflection.md)
-
-## Skills Learned
-
-Through this laboratory activity, I learned how to:
-
-* Identify common cloud computing services
-* Compare AWS, Azure, and GCP
-* Analyze client requirements
-* Recommend suitable cloud platforms
-* Create and organize Markdown documentation
-* Use GitHub to manage and present project files
-
-## Conclusion
-
-This laboratory activity improved my understanding of multi-cloud computing and how different cloud providers can be used for different purposes. It also helped me develop practical skills in cloud research, technical documentation, client analysis, and GitHub portfolio management.
-
+After completing this activity, I developed a better understanding of how cloud providers offer similar services while having different features and strengths. I also learned that selecting a cloud platform should be based on the specific requirements, resources, and goals of a client.
