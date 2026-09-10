@@ -1,55 +1,53 @@
-# Cloud Platform Comparison
+# Client Recommendations
 
-## Overview
+## Client A - Small Business
 
-Cloud computing platforms provide services that allow organizations to run applications, store data, manage networks, and use computing resources through the internet. Three major cloud platforms are **Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP)**.
+### Recommended Platform: Microsoft Azure
 
-## Platform Comparison
+Microsoft Azure is a suitable platform for a small business because it offers flexible cloud resources that can be adjusted as the business grows. It can help the company host applications, store business files, and manage users without requiring a large physical infrastructure.
 
-| Feature             | AWS                    | Microsoft Azure        | Google Cloud          |
-| ------------------- | ---------------------- | ---------------------- | --------------------- |
-| Computing           | Amazon EC2             | Azure Virtual Machines | Compute Engine        |
-| Storage             | Amazon S3              | Azure Blob Storage     | Cloud Storage         |
-| Networking          | Amazon VPC             | Azure Virtual Network  | Virtual Private Cloud |
-| Identity Management | AWS IAM                | Microsoft Entra ID     | Cloud IAM             |
-| Management Tool     | AWS Management Console | Azure Portal           | Google Cloud Console  |
+### Recommended Services
 
-## AWS
+* Azure Virtual Machines
+* Azure Blob Storage
+* Microsoft Entra ID
 
-AWS provides a wide range of cloud services and has a large global infrastructure. It is suitable for organizations that need flexible and scalable cloud resources.
+## Client B - Educational Institution
 
-## Microsoft Azure
+### Recommended Platform: Microsoft Azure
 
-Azure provides strong integration with Microsoft products and enterprise services. It is suitable for businesses that already use Microsoft technologies.
+Microsoft Azure is recommended for an educational institution because it provides services that can support student information systems, online applications, file storage, and user management. Its security and identity services can also help protect school resources and manage access for different users.
 
-## Google Cloud
+### Recommended Services
 
-Google Cloud provides cloud services for computing, storage, databases, analytics, and application development. It is also known for its data and machine learning capabilities.
+* Azure Virtual Machines
+* Azure Blob Storage
+* Microsoft Entra ID
 
-## Advantages of Each Platform
+## Client C - Technology and Data Company
 
-### AWS
+### Recommended Platform: Google Cloud
 
-* Wide range of cloud services
-* Large global infrastructure
-* Flexible and scalable resources
+Google Cloud is a good option for a technology and data company because it provides powerful computing, storage, and data processing services. These services can support applications that require large amounts of data processing and analysis.
 
-### Microsoft Azure
+### Recommended Services
 
-* Strong Microsoft integration
-* Enterprise-focused services
-* Flexible cloud solutions
+* Compute Engine
+* Cloud Storage
+* BigQuery
 
-### Google Cloud
+## Client D - Online Business
 
-* Strong data analytics services
-* Machine learning capabilities
-* Scalable cloud infrastructure
+### Recommended Platform: AWS
 
-## Overall Comparison
+AWS is recommended for an online business because it provides scalable infrastructure for websites and applications. Resources can be adjusted depending on the number of users and amount of traffic, helping the business maintain reliable services as demand changes.
 
-AWS, Azure, and Google Cloud are all capable cloud platforms. AWS is a strong choice for a wide variety of cloud services, Azure is suitable for organizations using Microsoft technologies, while Google Cloud is a good option for data analytics and machine learning workloads.
+### Recommended Services
 
-## Recommendation
+* Amazon EC2
+* Amazon S3
+* Amazon RDS
 
-The best platform depends on the client's requirements, existing technology, budget, and future needs. For a client already using Microsoft products, **Microsoft Azure** can be a practical choice because of its integration with Microsoft services and enterprise-focused features.
+## Overall Recommendation
+
+The appropriate cloud platform depends on the client's business needs, budget, existing technology, and expected growth. AWS, Microsoft Azure, and Google Cloud can all provide reliable and scalable solutions when the right services are selected.
